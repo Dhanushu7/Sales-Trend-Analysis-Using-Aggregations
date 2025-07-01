@@ -42,7 +42,7 @@ This project demonstrates how to perform sales trend analysis using SQL on a str
 
 1. Clone this repository  
   - Open a terminal or Git Bash and run:
-  - git clone [https://github.com/dhanushu12/sales-trend-sql-analysis.git](https://github.com/Dhanushu7/Sales-Trend-Analysis-Using-Aggregations/tree/main)
+  - git clone https://github.com/Dhanushu7/Sales-Trend-Analysis-Using-Aggregations
   - cd sales-trend-sql-analysis
 
 
