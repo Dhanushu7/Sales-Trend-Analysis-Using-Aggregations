@@ -41,9 +41,9 @@ This project demonstrates how to perform sales trend analysis using SQL on a str
 ## How to Use
 
 1. Clone this repository  
-   Open a terminal or Git Bash and run:
-   git clone https://github.com/dhanushu12/sales-trend-sql-analysis.git
-   cd sales-trend-sql-analysis
+  - Open a terminal or Git Bash and run:
+  - git clone https://github.com/dhanushu12/sales-trend-sql-analysis.git
+  - cd sales-trend-sql-analysis
 
 
 2. Open MySQL Workbench:
