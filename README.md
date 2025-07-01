@@ -4,11 +4,12 @@ This project demonstrates how to perform sales trend analysis using SQL on a str
 
 ## Project Structure
 
-.
-├── sales_dashboard_dataset.csv         # The original sales data  
-├── sales_analysis_queries.sql          # SQL script with all analysis queries  
-├── screenshots/                        # Folder containing screenshots of query outputs  
-└── README.md                           # Project documentation
+| File/Folder                  | Description                                      |
+|-----------------------------|--------------------------------------------------|
+| `sales_dashboard_dataset.csv` | The original sales data file                    |
+| `sales_analysis_queries.sql`  | SQL script containing all analysis queries      |
+| `screenshots/`                | Folder containing screenshots of query outputs  |
+| `README.md`                   | Project documentation file                      |
 
 ## Dataset Information
 
@@ -50,7 +51,6 @@ This project demonstrates how to perform sales trend analysis using SQL on a str
 - Import the sales_dashboard_dataset.csv file using Table Data Import Wizard
 - Execute the SQL queries provided in sales_analysis_queries.sql
 
-3. Review screenshots in the screenshots folder to verify query outputs
 
 ## Example Queries Included
 
