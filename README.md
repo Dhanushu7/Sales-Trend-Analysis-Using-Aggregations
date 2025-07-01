@@ -7,7 +7,7 @@ This project demonstrates how to perform sales trend analysis using SQL on a str
 | File/Folder                  | Description                                      |
 |-----------------------------|--------------------------------------------------|
 | `sales_dashboard_dataset.csv` | The original sales data file                    |
-| `sales_analysis_queries.sql`  | SQL script containing all analysis queries      |
+| `SQL_Data_Analysis_Queries_Dhanushu.sql`  | SQL script containing all analysis queries      |
 | `screenshots/`                | Folder containing screenshots of query outputs  |
 | `README.md`                   | Project documentation file                      |
 
